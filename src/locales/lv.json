@@ -1,7 +1,7 @@
 {
   "title": "Laipni lūdzam",
   "title2": "Plašs piedāvājumu klāsts",
-  "description": "Starptautiskie un vietējie krāvu pārvadājumi. Pilnas un saliktas kravas, eksporta/importa kravu pārvadājumi Eiropā, Baltijā un Latvijas teritorijā.",
+  "description": "Starptautiskie un vietējie kravu pārvadājumi. Pilnas un saliktas kravas, eksporta/importa kravu pārvadājumi Eiropā, Baltijā un Latvijas teritorijā.",
   "consolidatedCargo": "Salikto kravu pārvadājumi",
   "fullCargo": "Pilno kravu pārvadājumi",
   "railroadCargo": "Dzelzceļa kravu pārvadājumi",
@@ -16,6 +16,7 @@
   "aboutUsInfo": "Mēs esam uz nākotni vērsts uzņēmums, kura mērķis ir sniegt saviem klientiem inovatīvus risinājumus. ",
   "yourName": "Jūsu Vārds",
   "yourEmail": "Jūsu e-pasts",
+  "yourPhone": "Jūsu tālruņa numurs (pēc izvēles)",
   "yourMessage": "Jūsu Ziņa",
   "sendMessage": "Nosūtīt ziņu",
   "messageStatusSuccess": "Ziņa veiksmīgi nosūtīta!",

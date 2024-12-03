@@ -16,6 +16,7 @@
   "aboutUsInfo": "Nous sommes une entreprise avant-gardiste dédiée à fournir des solutions innovantes à nos clients. ",
   "yourName": "Votre nom",
   "yourEmail": "Votre e-mail",
+  "yourPhone": "Votre numéro de téléphone (facultatif)",
   "yourMessage": "Votre message",
   "sendMessage": "Envoyer un message",
   "messageStatusSuccess": "Message envoyé avec succès !",

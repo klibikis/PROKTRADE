@@ -17,6 +17,7 @@
   "yourName": "Your Name",
   "yourEmail": "Your Email",
   "yourMessage": "Your Message",
+  "yourPhone": "Your phone number (optional)",
   "sendMessage": "Send Message",
   "messageStatusSuccess": "Message sent successfully!",
   "messageStatusFailure": "Error sending message."

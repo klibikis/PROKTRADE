@@ -8,7 +8,6 @@ export const LanguageProvider = ({ children }) => {
   const [userLanguage, setUserLanguage] = useState(localStorage.getItem('language') || 'en')
 
   useEffect(() => {
-    console.log(userLanguage)
       i18n.changeLanguage(userLanguage);
   }, [userLanguage]);
 

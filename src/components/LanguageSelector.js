@@ -26,7 +26,6 @@ const LanguageSelector = () => {
   };
 
   const handleClickOutside = (event) => {
-    console.log('click outside')
     if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
       setIsOpen(false);
     }

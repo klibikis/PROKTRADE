@@ -10,6 +10,7 @@ const Footer = () => {
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
   const [status, setStatus] = useState('');
+  const [phoneNumber, setPhoneNumber] = useState('');
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -21,6 +22,7 @@ const Footer = () => {
         setName('');
         setEmail('');
         setMessage('');
+        setPhoneNumber('')
       })
       .catch((error) => {
         console.error('Error sending email:', error);
@@ -58,7 +60,7 @@ const Footer = () => {
 
         <div className="footer-contact">
           <h2>{t('contactUs')}</h2>
-          <form className="contact-form" onSubmit={handleSubmit}>
+          <form id= 'contact-form' className="contact-form" onSubmit={handleSubmit}>
             <input
               type="text"
               name="user_name"
@@ -74,6 +76,13 @@ const Footer = () => {
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               required
+            />
+            <input
+              type="number"
+              name="user_number"
+              placeholder={t('yourPhone')}
+              value={phoneNumber}
+              onChange={(e) => setPhoneNumber(e.target.value)}
             />
             <textarea
               name="message"

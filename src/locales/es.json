@@ -16,6 +16,7 @@
   "aboutUsInfo": "Somos una empresa con visión de futuro dedicada a brindar soluciones innovadoras a nuestros clientes. ",
   "yourName": "Su nombre",
   "yourEmail": "Tu correo electrónico",
+  "yourPhone": "Tu número de teléfono (opcional)",
   "yourMessage": "Tu mensaje",
   "sendMessage": "Enviar mensaje",
   "messageStatusSuccess": "¡Mensaje enviado exitosamente!",

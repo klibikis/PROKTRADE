@@ -11,6 +11,7 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   line-height: 1.6;
+  background-color: #282c34;
 }
 
 h1, h2, h3 {
@@ -160,9 +161,15 @@ header {
   min-width: 100px;
 }
 .footer-contact {
-  flex: 0.7;
+  flex: 0.8;
   min-width: 100px;
-  max-width: 300px;
+  /*max-width: 300px;*/
+}
+
+.contact-form{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
 }
 
 .footer-about h2,
@@ -195,7 +202,6 @@ header {
 
 .contact-form input,
 .contact-form textarea {
-  width: 100%;
   padding: 0.75rem;
   margin-bottom: 1rem;
   border: none;
@@ -204,22 +210,22 @@ header {
 
 .contact-form input:focus,
 .contact-form textarea:focus {
-  outline: 2px solid #4caf50;
+  outline: 2px solid #ffffff;
 }
 
 .btn-send {
   padding: 0.75rem 1.5rem;
   border: none;
   border-radius: 4px;
-  background-color: #4caf50;
-  color: #fff;
+  background-color: #ffffff;
+  color: #000000;
   font-size: 1rem;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
 
 .btn-send:hover {
-  background-color: #45a049;
+  background-color: rgba(255, 255, 255, 0.74);
 }
 
 .status-message {
@@ -231,7 +237,7 @@ header {
 
 .main-section {
   position: relative;
-  background-color: rgb(52,52,52);
+  background-color: #282c34;
   color: white;
   min-height: 40vh;
   align-items: center;
@@ -314,7 +320,13 @@ header {
   color: #333;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) and (min-width: 768px) {
+  .footer-container {
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+  }
+
   .dropdown-btn {
     font-size: 14px;
   }
@@ -326,5 +338,90 @@ header {
   .flag {
     font-size: 16px;
   }
+
+  .gallery-item {
+    width: 45%; /* Adjusted width for medium screens */
+  }
+
+  .header-title1 {
+    font-size: 36px; /* Slightly smaller for medium screens */
+  }
+
+  .header-title2 {
+    font-size: 28px;
+  }
+
+  .main-content {
+    font-size: 36px; /* Adjust the main content font size */
+  }
+
+  .logo {
+    width: 20%; /* Adjust logo size for medium screens */
+    max-width: 200px;
+  }
 }
+
+/* Styles for screens smaller than 768px */
+@media (max-width: 768px) {
+
+  .header-info{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+  }
+  .dropdown-content {
+    left: 0;
+  }
+
+  .footer-container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .dropdown-btn {
+    font-size: 12px;
+  }
+
+  .dropdown-item {
+    font-size: 12px;
+  }
+
+  .flag {
+    font-size: 14px;
+  }
+
+  .gallery-item {
+    width: 100%; /* Single column layout for small screens */
+  }
+
+  .header-title1 {
+    font-size: 28px;
+    text-align: start;
+  }
+
+  .header-title2 {
+    font-size: 20px;
+    text-align: start;
+  }
+
+  .main-content {
+    font-size: 28px; /* Reduced font size for main content */
+    padding: 50px 20px; /* Smaller padding */
+  }
+
+  .logo {
+    width: 25%; /* Adjust logo size further */
+    max-width: 150px;
+  }
+
+  .footer {
+    flex-direction: column; /* Stack footer sections vertically */
+    text-align: center;
+  }
+
+  .footer-socials {
+    justify-content: center;
+  }
+}
+
 

@@ -16,6 +16,7 @@
   "aboutUsInfo": "Olemme eteenpäin katsova yritys, joka on sitoutunut toimittamaan innovatiivisia ratkaisuja asiakkaillemme. ",
   "yourName": "Nimesi",
   "yourEmail": "Sähköpostisi",
+  "yourPhone": "Puhelinnumerosi (valinnainen)",
   "yourMessage": "Viestisi",
   "sendMessage": "Lähetä Viesti",
   "messageStatusSuccess": "Viesti lähetetty onnistuneesti!",
