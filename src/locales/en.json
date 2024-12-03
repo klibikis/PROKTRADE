@@ -1,0 +1,23 @@
+{
+  "title": "Welcome to",
+  "title2": "A wide range of offers",
+  "description": "International and domestic cargo transportation. ",
+  "consolidatedCargo": "Combined cargo transportation",
+  "fullCargo": "Full cargo transportation",
+  "railroadCargo": "Railway freight transport",
+  "dangerousCargo": "Transportation of dangerous goods",
+  "oversizeCargo": "Oversized cargo transportation",
+  "containerCargo": "Container transportation",
+  "avioCargo": "Air cargo transportation",
+  "seaCargo": "Sea cargo transportation",
+  "warehouseCargo": "Warehouse services",
+  "aboutUs": "About Us",
+  "contactUs": "Contact Us",
+  "aboutUsInfo": "We are a forward-thinking company dedicated to delivering innovative solutions to our clients. Follow us on our social platforms for the latest updates.",
+  "yourName": "Your Name",
+  "yourEmail": "Your Email",
+  "yourMessage": "Your Message",
+  "sendMessage": "Send Message",
+  "messageStatusSuccess": "Message sent successfully!",
+  "messageStatusFailure": "Error sending message."
+}

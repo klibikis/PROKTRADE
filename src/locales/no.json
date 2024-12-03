@@ -1,0 +1,23 @@
+{
+  "title": "Velkommen til",
+  "title2": "Et bredt spekter av tilbud",
+  "description": "Internasjonal og innenlandsk godstransport. ",
+  "consolidatedCargo": "Kombinert godstransport",
+  "fullCargo": "Full godstransport",
+  "railroadCargo": "Godstransport med jernbane",
+  "dangerousCargo": "Transport av farlig gods",
+  "oversizeCargo": "Overdimensjonert godstransport",
+  "containerCargo": "Containertransport",
+  "avioCargo": "Flyfrakttransport",
+  "seaCargo": "Sjøgodstransport",
+  "warehouseCargo": "Lagertjenester",
+  "aboutUs": "Om oss",
+  "contactUs": "Kontakt oss",
+  "aboutUsInfo": "Vi er et fremtidsrettet selskap dedikert til å levere innovative løsninger til våre kunder. ",
+  "yourName": "Ditt navn",
+  "yourEmail": "Din e-post",
+  "yourMessage": "Din melding",
+  "sendMessage": "Send melding",
+  "messageStatusSuccess": "Meldingen ble sendt!",
+  "messageStatusFailure": "Feil ved sending av melding."
+}

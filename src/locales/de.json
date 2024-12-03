@@ -1,0 +1,23 @@
+{
+  "title": "Willkommen bei",
+  "title2": "Eine große Auswahl an Angeboten",
+  "description": "Internationaler und inländischer Gütertransport. ",
+  "consolidatedCargo": "Kombinierter Gütertransport",
+  "fullCargo": "Vollständiger Frachttransport",
+  "railroadCargo": "Schienengüterverkehr",
+  "dangerousCargo": "Transport gefährlicher Güter",
+  "oversizeCargo": "Transport übergroßer Güter",
+  "containerCargo": "Containertransport",
+  "avioCargo": "Luftfrachttransport",
+  "seaCargo": "Seefrachttransport",
+  "warehouseCargo": "Lagerdienstleistungen",
+  "aboutUs": "Über uns",
+  "contactUs": "Kontaktieren Sie uns",
+  "aboutUsInfo": "Wir sind ein zukunftsorientiertes Unternehmen, das sich der Bereitstellung innovativer Lösungen für unsere Kunden verschrieben hat. ",
+  "yourName": "Ihr Name",
+  "yourEmail": "Ihre E-Mail",
+  "yourMessage": "Ihre Nachricht",
+  "sendMessage": "Nachricht senden",
+  "messageStatusSuccess": "Nachricht erfolgreich gesendet!",
+  "messageStatusFailure": "Fehler beim Senden der Nachricht."
+}

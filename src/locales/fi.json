@@ -1,0 +1,23 @@
+{
+  "title": "Tervetuloa",
+  "title2": "Laaja valikoima tarjouksia",
+  "description": "Kansainväliset ja kotimaiset tavarakuljetukset. ",
+  "consolidatedCargo": "Yhdistetty rahtikuljetus",
+  "fullCargo": "Täyden rahdin kuljetus",
+  "railroadCargo": "Rautateiden tavaraliikenne",
+  "dangerousCargo": "Vaarallisten aineiden kuljetus",
+  "oversizeCargo": "Ylisuurten rahtien kuljetus",
+  "containerCargo": "Konttikuljetukset",
+  "avioCargo": "Lentorahdin kuljetus",
+  "seaCargo": "Merirahdin kuljetus",
+  "warehouseCargo": "Varastopalvelut",
+  "aboutUs": "Tietoja meistä",
+  "contactUs": "Ota yhteyttä",
+  "aboutUsInfo": "Olemme eteenpäin katsova yritys, joka on sitoutunut toimittamaan innovatiivisia ratkaisuja asiakkaillemme. ",
+  "yourName": "Nimesi",
+  "yourEmail": "Sähköpostisi",
+  "yourMessage": "Viestisi",
+  "sendMessage": "Lähetä Viesti",
+  "messageStatusSuccess": "Viesti lähetetty onnistuneesti!",
+  "messageStatusFailure": "Virhe lähetettäessä viestiä."
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Välkommen till",
+  "title2": "Ett brett utbud av erbjudanden",
+  "description": "Internationell och inhemsk godstransport. ",
+  "consolidatedCargo": "Kombinerad godstransport",
+  "fullCargo": "Full lasttransport",
+  "railroadCargo": "Järnvägsgodstransporter",
+  "dangerousCargo": "Transport av farligt gods",
+  "oversizeCargo": "Överdimensionerad godstransport",
+  "containerCargo": "Containertransport",
+  "avioCargo": "Flygfraktstransport",
+  "seaCargo": "Sjöfrakttransport",
+  "warehouseCargo": "Lagertjänster",
+  "aboutUs": "Om oss",
+  "contactUs": "Kontakta oss",
+  "aboutUsInfo": "Vi är ett framtidstänkande företag dedikerat till att leverera innovativa lösningar till våra kunder. ",
+  "yourName": "Ditt namn",
+  "yourEmail": "Din e-post",
+  "yourMessage": "Ditt meddelande",
+  "sendMessage": "Skicka meddelande",
+  "messageStatusSuccess": "Meddelandet har skickats!",
+  "messageStatusFailure": "Det gick inte att skicka meddelande."
+}

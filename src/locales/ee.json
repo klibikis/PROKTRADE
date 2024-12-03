@@ -1,0 +1,23 @@
+{
+  "title": "Tere tulemast",
+  "title2": "Lai valik pakkumisi",
+  "description": "Rahvusvahelised ja riigisisesed kaubaveod. ",
+  "consolidatedCargo": "Kombineeritud kaubavedu",
+  "fullCargo": "Täiskaubavedu",
+  "railroadCargo": "Raudtee kaubavedu",
+  "dangerousCargo": "Ohtlike kaupade vedu",
+  "oversizeCargo": "Suurte veoste vedu",
+  "containerCargo": "Konteinerite transport",
+  "avioCargo": "Lennukaubavedu",
+  "seaCargo": "Merekaubavedu",
+  "warehouseCargo": "Laoteenused",
+  "aboutUs": "Meie kohta",
+  "contactUs": "Võtke meiega ühendust",
+  "aboutUsInfo": "Oleme tulevikku vaatav ettevõte, mis on pühendunud oma klientidele uuenduslike lahenduste pakkumisele. ",
+  "yourName": "Sinu nimi",
+  "yourEmail": "Teie e-post",
+  "yourMessage": "Sinu sõnum",
+  "sendMessage": "Saada Sõnum",
+  "messageStatusSuccess": "Sõnum edukalt saadetud!",
+  "messageStatusFailure": "Viga sõnumi saatmisel."
+}

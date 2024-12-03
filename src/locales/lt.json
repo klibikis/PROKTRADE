@@ -1,0 +1,23 @@
+{
+  "title": "Sveiki atvykę i",
+  "title2": "Platus pasiūlymų asortimentas",
+  "description": "Tarptautiniai ir vietiniai krovinių pervežimai. ",
+  "consolidatedCargo": "Kombinuotų krovinių pervežimas",
+  "fullCargo": "Pilnų krovinių pervežimas",
+  "railroadCargo": "Krovinių gabenimas geležinkeliu",
+  "dangerousCargo": "Pavojingų krovinių gabenimas",
+  "oversizeCargo": "Negabaritinių krovinių pervežimas",
+  "containerCargo": "Konteinerių gabenimas",
+  "avioCargo": "Krovinių gabenimas oro transportu",
+  "seaCargo": "Jūrų krovinių gabenimas",
+  "warehouseCargo": "Sandėlio paslaugos",
+  "aboutUs": "Apie mus",
+  "contactUs": "Susisiekite su mumis",
+  "aboutUsInfo": "Esame į ateitį žiūrinti įmonė, kurios tikslas – teikti novatoriškus sprendimus savo klientams. ",
+  "yourName": "Jūsų Vardas",
+  "yourEmail": "Jūsų el. paštas",
+  "yourMessage": "Jūsų žinutė",
+  "sendMessage": "Siųsti žinutę",
+  "messageStatusSuccess": "Pranešimas sėkmingai išsiųstas!",
+  "messageStatusFailure": "Klaida siunčiant pranešimą."
+}

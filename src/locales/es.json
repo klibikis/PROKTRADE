@@ -1,0 +1,23 @@
+{
+  "title": "Bienvenido a",
+  "title2": "Una amplia gama de ofertas",
+  "description": "Transporte de carga nacional e internacional. ",
+  "consolidatedCargo": "Transporte de carga combinado",
+  "fullCargo": "Transporte de carga completa",
+  "railroadCargo": "Transporte de mercancías por ferrocarril",
+  "dangerousCargo": "Transporte de mercancías peligrosas.",
+  "oversizeCargo": "Transporte de carga sobredimensionada",
+  "containerCargo": "Transporte de contenedores",
+  "avioCargo": "Transporte aéreo de carga",
+  "seaCargo": "Transporte marítimo de carga",
+  "warehouseCargo": "Servicios de almacén",
+  "aboutUs": "Sobre nosotros",
+  "contactUs": "Contáctenos",
+  "aboutUsInfo": "Somos una empresa con visión de futuro dedicada a brindar soluciones innovadoras a nuestros clientes. ",
+  "yourName": "Su nombre",
+  "yourEmail": "Tu correo electrónico",
+  "yourMessage": "Tu mensaje",
+  "sendMessage": "Enviar mensaje",
+  "messageStatusSuccess": "¡Mensaje enviado exitosamente!",
+  "messageStatusFailure": "Error al enviar el mensaje."
+}
