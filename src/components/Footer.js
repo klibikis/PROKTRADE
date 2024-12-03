@@ -78,7 +78,7 @@ const Footer = () => {
               required
             />
             <input
-              type="number"
+              type="tel"
               name="user_number"
               placeholder={t('yourPhone')}
               value={phoneNumber}
