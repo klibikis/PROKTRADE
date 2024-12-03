@@ -15,7 +15,7 @@ const Footer = () => {
     e.preventDefault();
 
     // Send email using EmailJS
-    emailjs.sendForm('service_4h5vc2t', 'template_u0nok5a', e.target, 'xuMzljMQR5P9UkVMC')
+    emailjs.sendForm('service_y2axhqz', 'proktrade-contact-us', e.target, '45FPQQ1EdAAZP_vyV')
       .then((result) => {
         setStatus(t('messageStatusSuccess'));
         setName('');
