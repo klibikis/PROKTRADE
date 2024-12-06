@@ -12,7 +12,7 @@ const Header = () => {
       <div className="header-content">
         <div className='header-info'>
 
-          <h1 className='header-title1'>{t('title')} PROKTRADE</h1>
+          <h1 className='header-title1'>{t('title')} PROK TRADE</h1>
           <h1 className='header-title2'>{t('title2')}</h1>
           <LanguageSelector />
         </div>
