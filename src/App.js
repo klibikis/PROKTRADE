@@ -10,11 +10,11 @@ import i18n from "i18next";
 const App = () => {
   return (
     <LanguageProvider>
-      <h1>This site is not available at the moment</h1>
-        {/*<Header />*/}
-        {/*<MainSection/>*/}
-        {/*<Gallery />*/}
-        {/*<Footer />*/}
+      {/*<h1>This site is not available at the moment</h1>*/}
+        <Header />
+        <MainSection/>
+        <Gallery />
+        <Footer />
     </LanguageProvider>
   );
 };
