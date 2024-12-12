@@ -14,10 +14,10 @@
   "aboutUs": "Par mums",
   "contactUs": "Sazinieties ar mums",
   "aboutUsInfo": "Loģistikas risinājumi. Vai šobrīd optimizē transporta izmaksas, lai palielinātu peļņu? Sazinies ar mums un mēs Jums palidzēsim.",
-  "yourName": "Jūsu Vārds",
+  "yourName": "Jūsu vārds",
   "yourEmail": "Jūsu e-pasts",
   "yourPhone": "Jūsu tālruņa numurs (pēc izvēles)",
-  "yourMessage": "Jūsu Ziņa",
+  "yourMessage": "Jūsu ziņa",
   "sendMessage": "Nosūtīt ziņu",
   "messageStatusSuccess": "Ziņa veiksmīgi nosūtīta!",
   "messageStatusFailure": "Nosūtot ziņojumu, radās kļūda."
