@@ -1,18 +1,19 @@
 import React, {useContext, useEffect, useRef, useState} from 'react';
 import { LanguageContext } from '../context/LanguageContext';
+import "/node_modules/flag-icons/css/flag-icons.min.css";
 
 const languages = [
-  { name: 'Latviešu', code: 'lv', flag: '🇱🇻' },
-  { name: 'Lietuvių', code: 'lt', flag: '🇱🇹' },
-  { name: 'Eesti', code: 'ee', flag: '🇪🇪' },
-  { name: 'Русский', code: 'ru', flag: '🇷🇺' },
-  { name: 'English', code: 'en', flag: '🇺🇸' },
-  { name: 'Svenska', code: 'sv', flag: '🇸🇪' }, // Swedish
-  { name: 'Français', code: 'fr', flag: '🇫🇷' }, // French
-  { name: 'Suomi', code: 'fi', flag: '🇫🇮' }, // Finnish
-  { name: 'Español', code: 'es', flag: '🇪🇸' }, // Spanish
-  { name: 'Deutsch', code: 'de', flag: '🇩🇪' }, // German
-  { name: 'Norsk', code: 'no', flag: '🇳🇴' }, // Norwegian
+  { name: 'Latviešu', code: 'lv' },
+  { name: 'Lietuvių', code: 'lt' },
+  { name: 'Eesti', code: 'ee' },
+  { name: 'Русский', code: 'ru' },
+  { name: 'English', code: 'us' },
+  { name: 'Svenska', code: 'se' }, // Swedish
+  { name: 'Français', code: 'fr' }, // French
+  { name: 'Suomi', code: 'fi' }, // Finnish
+  { name: 'Español', code: 'es' }, // Spanish
+  { name: 'Deutsch', code: 'de' }, // German
+  { name: 'Norsk', code: 'no' }, // Norwegian
 ];
 
 const LanguageSelector = () => {
@@ -42,9 +43,10 @@ const LanguageSelector = () => {
     <div className="language-selector">
       <div className="dropdown" ref={dropdownRef}>
         <button className="dropdown-btn" onClick={handleToggleDropdown}>
-          {languages.find((lang) => lang.code === userLanguage)?.name || '🌐'}
-          &nbsp;
-          {languages.find((lang) => lang.code === userLanguage)?.flag || '🌐'}
+          <span className={`fi fi-${languages.find((lang) => lang.code === userLanguage)?.code}`}></span>
+          <span>
+            {languages.find((lang) => lang.code === userLanguage)?.name || '🌐'}
+          </span>
         </button>
         {isOpen && (
           <div className="dropdown-content">
@@ -54,7 +56,7 @@ const LanguageSelector = () => {
                 className="dropdown-item"
                 onClick={() => handleChangeLang(code)}
               >
-                <span className="flag">{flag}</span>
+                <span className="flag"><span className={`fi fi-${code}`}></span></span>
                 <span className="language-name">{name}</span>
               </div>
             ))}

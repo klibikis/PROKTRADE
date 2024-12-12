@@ -6,7 +6,7 @@ import ee from './ee.json'
 import lt from './lt.json'
 import ru from './ru.json'
 import no from './no.json'
-import sv from './sv.json'
+import se from './se.json'
 import fr from './fr.json'
 import fi from './fi.json'
 import de from './de.json'
@@ -43,8 +43,8 @@ const resources = {
   no: {
     translation: no,
   },
-  sv: {
-    translation: sv,
+  se: {
+    translation: se,
   },
 }
 
