@@ -122,15 +122,13 @@ header {
 .gallery-text {
   position: absolute;
   bottom: 0;
-  left: 0;
-  right: 0;
-  padding-right: 5px;
-  padding-left: 5px;
+  left: 2%;
+  right: 2%;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
   text-align: center;
-  width: 100%;
+  width: 96%;
   font-size: 20px;
   color: white;
   height: 20%;
