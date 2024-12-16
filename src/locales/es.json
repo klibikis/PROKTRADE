@@ -5,7 +5,7 @@
   "consolidatedCargo": "Transporte de carga combinado",
   "fullCargo": "Transporte de carga completa",
   "railroadCargo": "Transporte de mercancías por ferrocarril",
-  "dangerousCargo": "Transporte de mercancías peligrosas.",
+  "dangerousCargo": "Transporte de mercancías peligrosas",
   "oversizeCargo": "Transporte de carga sobredimensionada",
   "containerCargo": "Transporte de contenedores",
   "avioCargo": "Transporte aéreo de carga",
