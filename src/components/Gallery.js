@@ -23,9 +23,8 @@ const Gallery = () => {
             onClick={handleItemClick}
           >
             <img className="gallery-image" src={image.src} alt={`Gallery item ${index + 1}`} />
-            <div className="gallery-overlay">
-              <div className='gallery-text'>{t(image.description)}</div>
-            </div>
+            <div className="gallery-overlay"></div>
+            <div className='gallery-text'>{t(image.description)}</div>
           </div>
         ))}
       </div>
