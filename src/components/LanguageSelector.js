@@ -8,11 +8,12 @@ const languages = [
   { name: 'Eesti', code: 'ee' },
   { name: 'Русский', code: 'ru' },
   { name: 'English', code: 'us' },
-  { name: 'Svenska', code: 'se' }, // Swedish
-  { name: 'Français', code: 'fr' }, // French
-  { name: 'Suomi', code: 'fi' }, // Finnish
-  { name: 'Español', code: 'es' }, // Spanish
+  //polish
   { name: 'Deutsch', code: 'de' }, // German
+  { name: 'Español', code: 'es' }, // Spanish
+  { name: 'Français', code: 'fr' }, // French
+  { name: 'Svenska', code: 'se' }, // Swedish
+  { name: 'Suomi', code: 'fi' }, // Finnish
   { name: 'Norsk', code: 'no' }, // Norwegian
 ];
 

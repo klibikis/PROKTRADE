@@ -2,7 +2,7 @@
   "title": "Laipni lūdzam",
   "title2": "Plašs piedāvājumu klāsts",
   "description": "Starptautiskie un vietējie kravu pārvadājumi. Pilnas un saliktas kravas, eksporta/importa kravu pārvadājumi Eiropā, Baltijā un Latvijas teritorijā.",
-  "consolidatedCargo": "Salikto kravu pārvadājumi",
+  "consolidatedCargo": "Kombinēto kravu pārvadājumi",
   "fullCargo": "Pilno kravu pārvadājumi",
   "railroadCargo": "Dzelzceļa kravu pārvadājumi",
   "dangerousCargo": "Bīstamo kravu pārvadājumi",
@@ -11,6 +11,18 @@
   "avioCargo": "Avio kravu pārvadājumi",
   "seaCargo": "Jūras kravu pārvadājumi",
   "warehouseCargo": "Noliktavas pakalpojumi",
+
+  "consolidatedCargo2": "Visu veidu kravu pārvadājumi. Kastes, sūtījumi, palešu kravas, nestandarta izmēra kravas. Temperatūras režīma kravas ar jebkādiem pārvadājumu nosacījumiem. Visu veidu kravu pārvadājumi pēc klienta pieprasījuma.",
+  "fullCargo2": "Standarta tenta kravas 90m3, mega tenta kravas 100m3, tenta 120m3, tenta 13,6 LDM, 7,4 LDM + 7,4 LDM, 8 LDM + 8 LDM. Visu veidu refrižeratori. Platformas.Walking floor piekabes. Baļķvedēji. Visu veidu kravu pārvadājumi pēc klienta pieprasījuma.",
+  "railroadCargo2": "Visu veidu kravu pārvadājumi pēc klienta pieprasījuma.",
+  "dangerousCargo2": "Visu veidu kravu pārvadājumi pēc klienta pieprasījuma.",
+  "oversizeCargo2": "Visu veidu kravu pārvadājumi pēc klienta pieprasījuma.",
+  "containerCargo2": "Visu veidu kravu pārvadājumi pēc klienta pieprasījuma.",
+  "avioCargo2": "Avio kravu pārvadājumi",
+  "seaCargo2": "Jūras kravu pārvadājumi",
+  "warehouseCargo2": "Noliktavas pakalpojumi",
+
+
   "aboutUs": "Par mums",
   "contactUs": "Sazinieties ar mums",
   "aboutUsInfo": "Loģistikas risinājumi. Vai šobrīd optimizē transporta izmaksas, lai palielinātu peļņu? Sazinies ar mums un mēs Jums palīdzēsim.",
