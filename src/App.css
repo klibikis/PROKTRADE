@@ -435,6 +435,18 @@ textarea {
 /* Styles for screens smaller than 768px */
 @media (max-width: 768px) {
 
+  .gallery-item:hover .gallery-text  {
+    transform: translateY(-30%);
+  }
+
+  .gallery-text{
+    font-size: 22px;
+  }
+
+  .additional-gallery-text  {
+    font-size: 18px;
+  }
+
   .header-info{
     display: flex;
     justify-content: start;

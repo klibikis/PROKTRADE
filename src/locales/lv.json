@@ -18,9 +18,9 @@
   "dangerousCargo2": "Visu veidu kravu pārvadājumi pēc klienta pieprasījuma.",
   "oversizeCargo2": "Visu veidu kravu pārvadājumi pēc klienta pieprasījuma.",
   "containerCargo2": "Visu veidu kravu pārvadājumi pēc klienta pieprasījuma.",
-  "avioCargo2": "Avio kravu pārvadājumi",
-  "seaCargo2": "Jūras kravu pārvadājumi",
-  "warehouseCargo2": "Noliktavas pakalpojumi",
+  "avioCargo2": "Visu veidu kravu pārvadājumi pēc klienta pieprasījuma.",
+  "seaCargo2": "Visu veidu kravu pārvadājumi pēc klienta pieprasījuma.",
+  "warehouseCargo2": "",
 
 
   "aboutUs": "Par mums",

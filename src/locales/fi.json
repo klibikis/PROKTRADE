@@ -19,7 +19,7 @@
   "containerCargo2": "Kaikkien rahtityyppien kuljetukset asiakkaan pyynnöstä.",
   "avioCargo2": "Kaikkien rahtityyppien kuljetukset asiakkaan pyynnöstä.",
   "seaCargo2": "Kaikkien rahtityyppien kuljetukset asiakkaan pyynnöstä.",
-  "warehouseCargo2": "Kaikkien rahtityyppien kuljetukset asiakkaan pyynnöstä.",
+  "warehouseCargo2": "",
   "aboutUs": "Tietoja meistä",
   "contactUs": "Ota yhteyttä",
   "aboutUsInfo": "Logistiset ratkaisut. Optimoitko parhaillaan kuljetuskustannuksiasi tuoton maksimoimiseksi? Ota yhteyttä, niin autamme sinua.",
