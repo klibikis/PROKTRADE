@@ -8,7 +8,7 @@ const languages = [
   { name: 'Eesti', code: 'ee' },
   { name: 'Русский', code: 'ru' },
   { name: 'English', code: 'us' },
-  //polish
+  { name: 'Polski', code: 'pl' }, // Polish
   { name: 'Deutsch', code: 'de' }, // German
   { name: 'Español', code: 'es' }, // Spanish
   { name: 'Français', code: 'fr' }, // French

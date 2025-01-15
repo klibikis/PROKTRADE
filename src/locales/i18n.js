@@ -11,6 +11,7 @@ import fr from './fr.json'
 import fi from './fi.json'
 import de from './de.json'
 import es from './es.json'
+import pl from './pl.json'
 
 const resources = {
   en: {
@@ -45,6 +46,9 @@ const resources = {
   },
   se: {
     translation: se,
+  },
+  pl: {
+    translation: pl,
   },
 }
 
